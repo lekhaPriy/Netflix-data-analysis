@@ -30,13 +30,14 @@ The project follows these key steps:
 | ![Netflix Genre Popularity](images/genre_plot.png) ![1](https://github.com/user-attachments/assets/8f37891a-456b-48bf-a415-7ab9d2abf7b7)
 
 
+| *Netflix Content Growth Over the Years* |
 | ![Netflix Content Over Years](images/year_plot.png) ![2](https://github.com/user-attachments/assets/943fdafc-ce6a-4d1e-b9fa-b88e16d9ef56)
 |  
-|:--:|  
-| *Netflix Content Growth Over the Years* |  
+
+  
 
 ## 🏁 How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/netflix-data-analysis.git
+   git clone https://github.com/lekhaPriy/netflix-data-analysis.git
    cd netflix-data-analysis
